@@ -1,0 +1,330 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573113488669@s.whatsapp.net',
+    fromMe: false,
+    id: '4A7AFD3C33C98B894F096DBB3A6A1D4D',
+    participant: undefined
+  },
+  messageTimestamp: 1688571526,
+  pushName: 'Andersson C 🏉',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573113488669'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223076693@s.whatsapp.net',
+    fromMe: false,
+    id: '751F1A06E2F450FA4406F06BFB8D155E',
+    participant: undefined
+  },
+  messageTimestamp: 1688572707,
+  pushName: 'Liz Karolina Solano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajajaj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajaj',
+  from: '573223076693'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223076693@s.whatsapp.net',
+    fromMe: false,
+    id: '9AA8D2FF2ED1E0385C07948A1E053A42',
+    participant: undefined
+  },
+  messageTimestamp: 1688572709,
+  pushName: 'Liz Karolina Solano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pues no hagas nada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pues no hagas nada',
+  from: '573223076693'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223076693@s.whatsapp.net',
+    fromMe: false,
+    id: 'B7B5D0A7D20D0E18888431816217B03E',
+    participant: undefined
+  },
+  messageTimestamp: 1688573686,
+  pushName: 'Liz Karolina Solano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaja',
+  from: '573223076693'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223076693@s.whatsapp.net',
+    fromMe: false,
+    id: 'B921BECCD54A6B3B75BD7907CE5658BC',
+    participant: undefined
+  },
+  messageTimestamp: 1688573688,
+  pushName: 'Liz Karolina Solano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tan bobo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tan bobo',
+  from: '573223076693'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: 'F329F984CFFF679206A3192DA31F288E',
+    participant: undefined
+  },
+  messageTimestamp: 1688574455,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/40139177_110415532092437_8209034379318526927_n.enc?ccb=11-4&oh=01_AdS5iTg7jE-69-oiWFe7pztwKE-pfzog0WtAKqGs30QfVA&oe=64CD1739&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Jajajaja así o en peor estado ?',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 1200,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/40139177_110415532092437_8209034379318526927_n.enc?ccb=11-4&oh=01_AdS5iTg7jE-69-oiWFe7pztwKE-pfzog0WtAKqGs30QfVA&oe=64CD1739',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__839966b6-68fd-4dea-a619-e747ac3ad707',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: '93DBB60D83B7332CFEAE4DAEFEB36EB4',
+    participant: undefined
+  },
+  messageTimestamp: 1688574475,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '😂',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: '9648B262601F85365D72DE25F0DAC5AA',
+    participant: undefined
+  },
+  messageTimestamp: 1688574481,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: '04365D7BB2F62AA81404509F43674082',
+    participant: undefined
+  },
+  messageTimestamp: 1688574509,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sip eso hice amor, ya estoy tomando caldo , avena y pan. Casi no puedo pasar',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sip eso hice amor, ya estoy tomando caldo , avena y pan. Casi no puedo pasar',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0E06B756CA9B43957C57909E26CD56B',
+    participant: undefined
+  },
+  messageTimestamp: 1688574518,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Bueno amor',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bueno amor',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1E9F826BA3BFAC05A20BE7211738ECD',
+    participant: undefined
+  },
+  messageTimestamp: 1688574540,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Pues yo digo a mi humilde criterio que en paipa, por qué acá no hay termales y todas las piscinas son frías',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pues yo digo a mi humilde criterio que en paipa, por qué acá no hay termales y todas las piscinas son frías',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: 'A354F357DFFC6451191750D95282EFCF',
+    participant: undefined
+  },
+  messageTimestamp: 1688574553,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    conversation: 'La de las nieves dice que es climatizada pero esa vaina es más fría',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'La de las nieves dice que es climatizada pero esa vaina es más fría',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA81CFD795A353AEB3D6D771671EBAC7',
+    participant: undefined
+  },
+  messageTimestamp: 1688574562,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Perfecto. Vamos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Perfecto. Vamos',
+  from: '573233006026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233006026@s.whatsapp.net',
+    fromMe: false,
+    id: '01FFE7FE033A8BB2FC8FAC28132D9E25',
+    participant: undefined
+  },
+  messageTimestamp: 1688574580,
+  pushName: 'Laura Fuertes🎈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '😔😔😔😔\n\n \nLo sé 🤍 eres un guapote 🤍',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '😔😔😔😔\n\n \nLo sé 🤍 eres un guapote 🤍',
+  from: '573233006026'
+}
